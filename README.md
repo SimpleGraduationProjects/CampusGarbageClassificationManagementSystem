@@ -1,6 +1,3 @@
-# CampusGarbageClassificationManagementSystem
-校园垃圾分类管理系统-毕业设计
-
 
 # 100.CampusGarbageClassificationManagementSystem
 
